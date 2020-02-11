@@ -23,3 +23,6 @@ coverage
 
 # Benchmarking
 benchmarks/graphs
+
+# Config
+config/config.yml
